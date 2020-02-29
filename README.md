@@ -6,7 +6,7 @@ Exercise 1:
 In this exercise, we re-implemented theTwitterLanguageFilter using the Spark framework. What it does is to  select  all  tweets  in  a  given  language  and  store  them  in S3.
 
 Exercise 2:
-In this exercise, we have run the application in AWS using the ElasticMapReduce service. We ran the code for the the languages Spanish, Hungarian and Portuguese and placed the result of the runs in S3. We have also benchmarked the time for the languages in both the cluster and our local machine.
+In this exercise, we have run the application in AWS using the ElasticMapReduce service. We ran the code for the languages Spanish, Hungarian and Portuguese and placed the result of the runs in S3. We have also benchmarked the time for the languages in both the cluster and our local machine.
 
 Benchmark:
 
