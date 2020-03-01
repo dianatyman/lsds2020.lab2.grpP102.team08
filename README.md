@@ -27,5 +27,44 @@ Then in the main we use Spark to calculate bigrams for a given language.
 After implementing everything, we answer the following question:
 
     What are the top-10 most popular bi-grams for a given language from original Tweets used during the 2018 Eurovision Festival?
+  
+  Bi-grams in Hungarian:
+    
+    (2,@masonanonymous:-shalom)
+    (2,🇮🇱-🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️🕊🕊🕊✅)
+    (2,israel-jai!!!!!!)
+    (2,am-israel)
+    (2,rt-@masonanonymous:)
+    (2,#israel-#eurovision)
+    (2,jai!!!!!!-#israel)
+    (2,israel-🇮🇱)
+    (2,shalom-israel)
+    (2,🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️✡️🕊🕊🕊✅-https://t.co/9bf2nb6csi)
+    
+  Bi-grams in Spanish:
+  
+    (1828,el-año)
+    (1180,rt-@manelnmusic:)
+    (1123,este-año)
+    (1074,que-el)
+    (1008,de-la)
+    (1008,que-no)
+    (993,con-una)
+    (984,año-pasado)
+    (941,con-un)
+    (917,gana-una)
+
+  Bi-grams in Portuguese:
+  
+    (310,o-salvador)
+    (269,para-o)
+    (261,o-ano)
+    (185,vai-ser)
+    (178,o-melhor)
+    (175,rt-@mocedumcabreste:)
+    (168,foi-o)
+    (165,salvador-a)
+    (160,não-é)
+    (157,salvador-sobral)
 
 Exercise 4:
