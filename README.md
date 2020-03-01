@@ -22,6 +22,10 @@ Benchmark:
     
 
 Exercise 3:
+In this exercise we implement the class ExtendedSimplifiedTweet, which is similar to the SimplifiedTweet class from the previous practice, but with additional fileds: the number of followers of a user, a boolean for whether a tweet is a retweet and the user id and tweet id of thew retweeted tweet.
+Then in the main we use Spark to calculate bigrams for a given language.
+After implementing everything, we answer the following question:
 
+    What are the top-10 most popular bi-grams for a given language fromoriginalTweets usedduring the 2018 Eurovision Festival?
 
 Exercise 4:
