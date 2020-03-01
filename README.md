@@ -26,6 +26,6 @@ In this exercise we implement the class ExtendedSimplifiedTweet, which is simila
 Then in the main we use Spark to calculate bigrams for a given language.
 After implementing everything, we answer the following question:
 
-    What are the top-10 most popular bi-grams for a given language fromoriginalTweets usedduring the 2018 Eurovision Festival?
+    What are the top-10 most popular bi-grams for a given language from original Tweets used during the 2018 Eurovision Festival?
 
 Exercise 4:
